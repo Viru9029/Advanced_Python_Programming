@@ -1,0 +1,36 @@
+Lab Exercise 7
+1.  Write a Python program to read first n lines of a file.
+2. Write a Python program to append text to a file and display the text.
+3. Write a Python program to read a file line by line and store it into a list.
+4.  Write a program to print each line of a file in reverse order.
+5. Write a Python program to write a list content to a file.
+6. Write a program to compute the number of characters, words and lines in a file.
+7: Subtract a week ( 7 days)  from a given date in Python
+8: Add week ( 7 days) and 12 hours to a given date
+Given:
+# 2020-03-22 10:00:00
+given_date = datetime(2020, 3, 22, 10, 0, 0)
+Expected output:
+2020-03-29 22:00:00
+
+9: Print ten dates, each two a week apart, starting from today, in the form YYYY-MM-DD.
+
+10: Calculate number of days between two given dates
+Given:
+# 2020-02-25
+date_1 = datetime(2020, 2, 25)
+# 2020-09-17
+date_2 = datetime(2020, 9, 17)
+Expected output:
+205 days
+11:  Write a Python script to display the 
+a) Current date and time
+b) Current year in full
+c) Month of year full name
+d) Weekday of the week
+e) Day of year
+f) Day of the month
+g) Day of week in full name
+12: Python program to convert a string to datetime:
+          'Jul 1 2016  2:43AM' into 2016-07-01 02:43:00
+13: Python program to convert Year/Month/Day to Day of Year.
