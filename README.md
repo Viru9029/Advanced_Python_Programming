@@ -186,3 +186,135 @@ Q48: Write a python program to print following multiplication table on the scree
 
 
 
+Q49: write a Program to display the Fibonacci sequence up to n-th term where n is provided by the user
+
+
+Q50: Write a Python Program to Display Powers of 2 Using Anonymous Function  
+( Lambda function). Take number of terms from user
+
+Q51: Write a Python Program to find numbers divisible by thirteen from a list using anonymous function
+
+
+Q52: Write a Python program to display the Fibonacci sequence up to n-th term by using recursive functions
+
+
+Q53: Write a Python program to find the sum of natural numbers up to n using recursive function
+
+ 
+Q54: Write a Python program to convert decimal number into binary number using recursive function
+
+
+Lab Exercises 5 (Based on Modules, Packages & File handling)
+
+
+Q55. Write a Python program to read an entire text file.
+ 
+
+Q56. Write a program that counts lines and characters in a file. With your favorite text editor, code a Python module called mymod.py, which exports three top-level names: a) A countLines(name) function that reads an input file and counts the number of lines in it b) A countChars(name) function that reads an input file and counts the number of characters in it c) A test(name) function that calls both counting functions with a given input filename. All three mymod functions should expect a filename string to be passed in. Now, test your module interactively, using import and name qualification to fetch your exports. 
+
+
+Q57. Test your mymod module from Exercise 2 interactively, by using from to load the exports directly, first by name, then using the from* variant to fetch everything. 
+
+
+Q58. Now, add a line in your mymod module that calls the test function automatically only when the module is run as a script, not when it is imported The line you add will probably test the value of __name__ for the string "__main__", as shown in this unit. Try running your module from the system command line; then, import the module and test its functions interactively.
+ 
+
+Q59. Write a second module, myclient.py, which imports mymod and tests its functions; run myclient from the system command line. If myclient uses from to fetch from mymod, will mymod’s functions be accessible from the top level of myclient? What if it imports with import instead? Try coding both variations in myclient and test interactively, by importing myclient . 
+
+
+Q60. Package imports. Finally, import your file from a package. Create a subdirectory called mypkg nested in a directory on your module import search path, move the mymod.py module file you created in exercises 2 or 4 into the new directory, and try to import it with a package import of the form: import mypkg.mymod. 
+
+
+Q61. Experiment with module reloads: perform the tests in the changer.py example, changing the called function’s message and/or behavior repeatedly, without stopping the Python interpreter. Depending on your system, you might be able to edit changer in another window.
+
+
+Lab Exercise 7
+
+
+Q62.  Write a Python program to read first n lines of a file.
+
+
+Q63. Write a Python program to append text to a file and display the text.
+
+
+Q64. Write a Python program to read a file line by line and store it into a list.
+
+
+Q65.  Write a program to print each line of a file in reverse order.
+
+
+Q66. Write a Python program to write a list content to a file.
+
+
+Q67. Write a program to compute the number of characters, words and lines in a file.
+
+
+Q68: Subtract a week ( 7 days)  from a given date in Python
+
+
+Q69: Add week ( 7 days) and 12 hours to a given date
+Given:
+2020-03-22 10:00:00
+given_date = datetime(2020, 3, 22, 10, 0, 0)
+Expected output:
+2020-03-29 22:00:00
+
+Q70: Print ten dates, each two a week apart, starting from today, in the form YYYY-MM-DD.
+
+
+Q71: Calculate number of days between two given dates
+Given:
+2020-02-25
+date_1 = datetime(2020, 2, 25)
+2020-09-17
+date_2 = datetime(2020, 9, 17)
+Expected output:
+205 days
+
+Q72:  Write a Python script to display the 
+a) Current date and time
+b) Current year in full
+c) Month of year full name
+d) Weekday of the week
+e) Day of year
+f) Day of the month
+g) Day of week in full name
+
+
+Q73: Python program to convert a string to datetime:
+          'Jul 1 2016  2:43AM' into 2016-07-01 02:43:00
+
+
+Q74: Python program to convert Year/Month/Day to Day of Year.
+
+
+Lab Exercise 8:
+Q75: Follow the steps:
+•	Create a class, Triangle. Its __init__() method should take self, angle1, angle2, and angle3 as arguments. Make sure to set these appropriately in the body of the __init__()method.
+•	Create a variable named number_of_sides and set it equal to 3.
+•	Create a method named check_angles. The sum of a triangle's three angles is It should return True if the sum of self.angle1, self.angle2, and self.angle3 is equal 180, and False otherwise.
+•	Create a variable named my_triangle and set it equal to a new instance of your Triangle class. Pass it three angles that sum to 180 (e.g. 90, 30, 60).
+•	Print out my_triangle.number_of_sides and print out my_triangle.check_angles().
+
+Q76: Define a class called Songs, it will show the lyrics of a song. Its __init__() method should have two arguments:self and lyrics.lyricsis a list. Inside your class create a method called sing_me_a_song that prints each element of lyricson his own line. Define a varible:
+happy_bday = Song(["May god bless you, ",
+                   "Have a sunshine on you,",
+                   "Happy Birthday to you !"])
+Call the sing_me_song method on this variable.
+
+Q77: Define a class called Lunch.Its __init__() method should have two arguments:selfanf menu.Where menu is a string. Add a method called menu_price.It will involve a ifstatement:
+•	if "menu 1" print "Your choice:", menu, "Price 12.00", if "menu 2" print "Your choice:", menu, "Price 13.40", else print "Error in menu".
+To check if it works define: Paul=Lunch("menu 1") and call Paul.menu_price().
+
+Q78: Write a Python class which has two methods get_String and print_String. get_String accept a string from the user and print_String print the string in upper case.
+
+Q79: Write a program to find the area and perimeter of a rectangle using classes and objects. Program output should be like this:
+![image](https://user-images.githubusercontent.com/102298880/166629431-81449c2f-3ce8-4c03-966b-15c018a18a03.png)
+
+                                    
+
+
+
+
+
+
