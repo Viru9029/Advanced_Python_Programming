@@ -16,13 +16,13 @@ Q4: Write a Python Program to calculate the square root
 
 
 Q5: Write a Python Program to Solve the quadratic equation ax**2 + bx + c = 0
-# Coeffients a, b and c are provided by the user
+Coeffients a, b and c are provided by the user
 
 [Hint: import complex math module - import cmath]
 
 
 Q6: Write a Python Program to find the area of triangle
-# Three sides of the triangle a, b and c are provided by the user
+Three sides of the triangle a, b and c are provided by the user
 
 
 Q7: If a five-digit number is input through the keyboard, write a program to calculate the sum of its digits without using any loop. (Hint: Use the modulus operator ‘%’) 
