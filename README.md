@@ -388,9 +388,13 @@ Q98: Write a Python program to remove leading zeros from an IP address.
 For example:
 IP Address 216.08.094.196 should be represented as 216.8.94.196
 
+Q99.Write a program to create a version of a palindrome recognizer that also accepts phrase palindromes such as "Go hanga salami I'm a lasagna hog.", "Was it a rat I saw?", "Step on no pets", "Sit on a potato pan, Otis", "LisaBonet ate no basil", "Satan, oscillate my metallic sonatas", "I roamed under it as a tired nude Maori","Rise to vote sir", or the exclamation "Dammit, I'm mad!". Note that punctuation, capitalization, and spacing are usually ignored.
+
+Q100.In cryptography, a Caesar cipher is a very simple encryption techniques in which each letter in theplain text is replaced by a letter some fixed number of positions down the alphabet. For example, with ashift of 3, A would be replaced by D, B would become E, and so on. The method is named after JuliusCaesar, who used it to communicate with his generals. ROT-13 ("rotate by 13 places") is a widely usedexample of a Caesar cipher where the shift is 13. In Python, the key for ROT-13 may be represented bymeans of the following dictionary:key = {'a':'n', 'b':'o', 'c':'p', 'd':'q', 'e':'r', 'f':'s', 'g':'t', 'h':'u', 'i':'v', 'j':'w', 'k':'x', 'l':'y', 'm':'z', 'n':'a', 'o':'b','p':'c', 'q':'d', 'r':'e', 's':'f', 't':'g', 'u':'h', 'v':'i', 'w':'j', 'x':'k', 'y':'l', 'z':'m', 'A':'N', 'B':'O', 'C':'P', 'D':'Q', 'E':'R','F':'S', 'G':'T', 'H':'U', 'I':'V', 'J':'W', 'K':'X', 'L':'Y', 'M':'Z', 'N':'A', 'O':'B', 'P':'C', 'Q':'D', 'R':'E', 'S':'F', 'T':'G','U':'H', 'V':'I', 'W':'J', 'X':'K', 'Y':'L', 'Z':'M'}Your task in this exercise is to implement an encoder/decoder of ROT-13. Once you're done, you will beable to read the following secret message:Pnrfne pvcure? V zhpu cersre Pnrfne fnynq!Note that since English has 26 characters, your ROT-13 program will be able to both encode and decodetexts written in English.
 
 
-
+Q101.
+![Untitled](https://user-images.githubusercontent.com/102298880/166632015-5d898b1c-f309-4c52-a669-0cffe8105d4c.jpg)
 
 
 
