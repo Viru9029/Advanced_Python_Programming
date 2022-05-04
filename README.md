@@ -312,6 +312,85 @@ Q79: Write a program to find the area and perimeter of a rectangle using classes
 ![image](https://user-images.githubusercontent.com/102298880/166629431-81449c2f-3ce8-4c03-966b-15c018a18a03.png)
 
                                     
+Lab Exercise 9
+
+Q80.	Define a class to represent a bank account. Include the following members: 
+Data Members:
+a.Name of the Depositor
+b.Account Number
+c.Type of Account
+d.Balance amount in the account
+Data Methods:
+a.To assign initial values
+b.To deposit an amount
+c.To withdraw an amount
+d.To display name and balance.
+
+Output:
+1.	New customer
+2.	Deposit
+3.	Withdrawal
+4.	Display
+5.	Exit
+
+Q81. Write a program to implement following. 
+Create a base class named person consisting of name and code. Create 2 child classes
+a)	Account with member_pay
+b)	Admin with experience and inherit the base class.
+
+Create a class employee with name, code, experience and pay by inheriting the above classes. 
+
+
+Q82. Write program to create a base class staff with code and name. Derive classes teacher(subject , publication) , typist (speed) , officer (grade) . Using the typist class as base class,create two classes regular(salary) and  casual(daily wages).Implement a menu driven program for the same.
+
+Output:
+1.	Teacher
+2.	Officer,
+3.	Regular Typist
+4.	Casaul typist
+5.	Exit
+
+Lab Exercise - 10:
+
+Q83: Write a function to compute 5/0 and use try/except to catch the exceptions.
+
+Q84: Write a Python program to access the array element whose index is out of bound and handle the corresponding exception
+
+Q85: Write a Python  Program to handle multiple errors with one except statement
+
+Q86: Write a Python Program to depict else clause with try-except
+
+Q87: Write a Python Program to depict Raising Exception
+
+Q88: Write a python program to create user-defined exception
+
+Q89: Print one message if the try block raises a NameError and another for other errors:
+
+Q90: Try to open and write to a file that is not writable:
+
+Q91: Write a python program to raise an error and stop the program if x is lower than 0.
+
+Q92: Write a python program to raise a TypeError if x is not an integer:
+
+Lab Exercise 11 – (regex)
+
+Q93: Write a Python program that matches a string that has an a followed by zero or more b's.
+
+Q94: Write a Python program to check for a number at the end of a string.
+
+Q95 : Write a Python program to search some literals strings in a string. 
+
+Q96: Replace all occurrences of 5 with five for the given string i.e. 'They ate 5 apples and 5 oranges' .
+
+Q97: Replace all occurrences of note irrespective of case with X in given string i.e. 'This note should not be NoTeD'.
+
+Q98: Write a Python program to remove leading zeros from an IP address.
+For example:
+IP Address 216.08.094.196 should be represented as 216.8.94.196
+
+
+
+
 
 
 
