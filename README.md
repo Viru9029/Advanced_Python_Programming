@@ -1,5 +1,5 @@
 # Advanced_Python_Programming
-CDAC Noida - PG-DAI
+Repository of all Assigments of Advanced Python Programming of CDAC PG-DAI Course
 
 
 Lab Exercise – 1
