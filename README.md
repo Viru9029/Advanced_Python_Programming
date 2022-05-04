@@ -28,6 +28,7 @@ Three sides of the triangle a, b and c are provided by the user
 Q7: If a five-digit number is input through the keyboard, write a program to calculate the sum of its digits without using any loop. (Hint: Use the modulus operator ‘%’) 
 
 Q8: Write a Python program to print the following string in a specific format
+![image](https://user-images.githubusercontent.com/102298880/166623638-13eab533-d016-4cc3-9a0f-c3b38ddb7011.png)
 
                               
 Q9: Write a Python program to display your details like name, age, address in three different lines.
